@@ -1,5 +1,5 @@
 language: java
 script:
 - cd DemoTravis
-- mvn build
+- mvn clean install
 - mvn test
