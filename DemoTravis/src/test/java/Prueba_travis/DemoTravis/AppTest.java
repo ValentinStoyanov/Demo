@@ -17,4 +17,13 @@ public class AppTest
     {
         assertTrue( true );
     }
+    
+    @Test
+    public void incorrectSum() {
+    	int sum1 = 1;
+    	int sum2 = 1;
+    	int res = 3;
+    	
+    	assertTrue(((sum1+sum2)==res));
+    }
 }
