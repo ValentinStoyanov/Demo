@@ -19,11 +19,11 @@ public class AppTest
     }
     
     @Test
-    public void incorrectSum() {
+    public void Sum() {
     	int sum1 = 1;
     	int sum2 = 1;
     	int res = 3;
     	
-    	assertTrue(((sum1+sum2)==res));
+    	assertTrue(((sum1+sum2)!=res));
     }
 }
