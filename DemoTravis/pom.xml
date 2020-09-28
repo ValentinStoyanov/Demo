@@ -27,7 +27,7 @@
     </dependency>
   </dependencies>
 
-<distributionManagement>
+	<distributionManagement>
           <repository>
             <id>internal.repo</id>
             <name>Internal repo</name>

@@ -5,7 +5,5 @@ public class Main {
 		System.out.println("Hello World!");
 	}
 	
-	public static boolean metodo1 () {
-		return true;
-	}
+	
 }
