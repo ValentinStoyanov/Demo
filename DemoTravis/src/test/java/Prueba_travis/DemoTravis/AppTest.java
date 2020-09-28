@@ -24,6 +24,6 @@ public class AppTest
     	int sum2 = 1;
     	int res = 3;
     	
-    	assertTrue(((sum1+sum2)!=res));
+    	assertTrue(((sum1+sum2)==res));
     }
 }
